@@ -1,0 +1,36 @@
+{
+    "produktId": 268,
+    "produktNavn": "Arbeidsrett",
+    "instandId": 191433,
+    "startDato": "24.09.19",
+    "sluttDato": "25.09.19",
+    "pris": 14990.00,
+    "sted": "Oslo",
+    "MaksDeltagere": 40,
+    "hittildeltagere": 23,
+    "vurdering": 5
+},
+{
+    "produktId": 268,
+    "produktNavn": "Arbeidsrett",
+    "instandId": 191432,
+    "startDato": "03.09.19",
+    "sluttDato": "04.09.19",
+    "pris": 14990.00,
+    "sted": "Drammen",
+    "MaksDeltagere": 23,
+    "hittildeltagere": 2,
+    "vurdering": 5
+},
+{
+    "produktId": 49,
+    "produktNavn": "Skriv så det selger",
+    "instandId": 191401,
+    "startDato": "07.09.19",
+    "sluttDato": "08.09.19",
+    "pris": 9990.00,
+    "sted": "Trondheim",
+    "MaksDeltagere": 20,
+    "hittildeltagere": 11,
+    "vurdering": 5.5
+}
